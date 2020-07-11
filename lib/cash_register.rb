@@ -36,4 +36,3 @@ class CashRegister
     @total -= @last_transaction_amount
   end
 end
-CashRegister.void_last_transaction
